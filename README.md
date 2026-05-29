@@ -14,9 +14,9 @@ This corpus includes eight types of greetings: handshake, high five, hug, fist b
 
 ### Annotation
 
-The second annotation focused on having information about the duration of the initiating actions, the varying timing of the touching behaviors, and the end of the greeting. Therefore, an annotation scheme was created. ELAN 6.5 was used to annotate the corpus. The annotation scheme includes one tier Responder with 3 types of vocabularies: start of greeting, first physical contact, and end of greeting. 
+The annotation focused on having information about the duration of the initiating actions, the varying timing of the touching behaviors, and the end of the greeting. Therefore, an annotation scheme was created. ELAN 6.5 was used to annotate the corpus. The annotation scheme includes one tier Responder with 3 types of vocabularies: start of greeting, first physical contact, and end of greeting. 
 (See Figure 1 for an example of the annotation file)
-
+![Screenshot of a annotation file on ELAN.](https://github.com/phamhamy122-beep/Lab1--The-Haptic-Greeting-Corpus/blob/main/Figure%201.png)
 ### Investigating human perceptions
 
 In this perception study, three aspects of human perceptive capacity from the initiating phase of the greetings, which are perceiving gestures, scenarios, and time, were investigated. The result of this study will also be used as the human baselines for training the models. 
