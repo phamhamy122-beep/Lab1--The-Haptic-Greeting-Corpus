@@ -49,3 +49,5 @@ Egocentric videos of responders from two dyads (Dyad 1 and Dyad 10) were selecte
 
 A total of 64 video clips from these two dyads were trimmed at three different timestamps: 50%, 75%, and 100% of the Start of Greeting. This resulted in 384 unique video stimuli, which were then divided randomly into 12 distinct groups. Each participant was randomly assigned to one group of videos (32 videos). After viewing each video 2 to 3 times, participants were asked to identify the scenario and greeting type that they observed.  
 
+Find the cleaned dataset and python code in the master branch [here](https://github.com/phamhamy122-beep/Lab1--The-Haptic-Greeting-Corpus/tree/master)
+
